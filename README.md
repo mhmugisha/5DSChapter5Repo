@@ -1,2 +1,2 @@
-# 5DSChapter5Repo
-Contains work in chapter 5 of D.S. Malik's book.
+# 6DSChapter6Repo
+Contains work in chapter 6 of D.S. Malik's book.
